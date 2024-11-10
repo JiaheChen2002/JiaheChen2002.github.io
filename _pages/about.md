@@ -21,7 +21,7 @@ My name is Jiahe Chen, and I am currently a senior student at Zhejiang Universit
 
 My research interest includes Machine Learning and computer vision. 
 
-And I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Qian Shao](https://abeier87.github.io/).
+And I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Qian Shao](https://abeier87.github.io/), [Jiahe Ying]().
 <font color="red">
 <span id="lastCommitTime"></span>
 </font>
