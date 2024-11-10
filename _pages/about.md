@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My name is Jiahe Chen, and I am currently a senior student at Zhejiang University of Technology. Soon, I will begin my journey as a Ph.D. student at the College of Computer Science and Technology, Zhejiang University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Machine Learning and computer vision. 
 
+<font color="red">
+Last Update: <span id="lastCommitTime"></span>
+</font>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 Decoupled Competitive Framework for Semi-supervised medical segmentation. ** Jiahe Chen **, Jiahe Ying, Shen Wang, Jianwei Zheng; ECAI
+
 
 # 📝 Publications 
 
@@ -56,3 +59,32 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+<div align="center">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+This homepage is visited <font color="purple" size="5"><span id="busuanzi_value_site_pv"></span></font> times
+</div>
+
+<div>
+
+<script>
+async function fetchLastCommitTime() {
+    const owner = 'chenjiahe2002';
+    const repo = 'chenjiahe2002.github.io';
+    const url = `https://api.github.com/repos/${owner}/${repo}/commits`;
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`Failed to fetch data from GitHub: ${response.statusText}`);
+        }
+        const data = await response.json();
+        const lastCommitDate = new Date(data[0].commit.committer.date);
+        document.getElementById('lastCommitTime').textContent = `Last Updated in ${lastCommitDate.toLocaleString()}`;
+    } catch (error) {
+        console.error('Error fetching commit time:', error);
+        // document.getElementById('lastCommitTime').textContent = 'Failed to fetch commit time.';
+    }
+}
+fetchLastCommitTime();
+</script>
+</div>
