@@ -26,7 +26,7 @@ My research interest includes Machine Learning and computer vision.
 </font>
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Decoupled Competitive Framework for Semi-supervised medical segmentation. ** Jiahe Chen **, Jiahe Ying, Shen Wang, Jianwei Zheng; ECAI
+- *2024.07*: &nbsp;🎉🎉 Decoupled Competitive Framework for Semi-supervised medical segmentation. **Jiahe Chen**, Jiahe Ying, Shen Wang, Jianwei Zheng; ECAI 2024; (CCF-B)
 
 
 # 📝 Publications 
