@@ -22,6 +22,7 @@ My name is Jiahe Chen, and I am currently a senior student at Zhejiang Universit
 My research interest includes Machine Learning and computer vision. 
 
 And I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Qian Shao](https://abeier87.github.io/), [Jiahe Ying]().
+
 <font color="red">
 <span id="lastCommitTime"></span>
 </font>
@@ -66,7 +67,7 @@ async function fetchLastCommitTime() {
         }
         const data = await response.json();
         const lastCommitDate = new Date(data[0].commit.committer.date);
-        document.getElementById('lastCommitTime').textContent = `Last Updated in ${lastCommitDate.toLocaleString()}`;
+        document.getElementById('lastCommitTime').textContent = `Last Updated in ${lastCommitDate.toLocaleDateString()}`;
     } catch (error) {
         console.error('Error fetching commit time:', error);
         // document.getElementById('lastCommitTime').textContent = 'Failed to fetch commit time.';
