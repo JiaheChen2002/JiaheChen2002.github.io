@@ -22,7 +22,7 @@ My name is Jiahe Chen, and I am currently a senior student at Zhejiang Universit
 My research interest includes Machine Learning and computer vision. 
 
 <font color="red">
-Last Update: <span id="lastCommitTime"></span>
+<span id="lastCommitTime"></span>
 </font>
 
 # 🔥 News
