@@ -69,8 +69,10 @@ This homepage is visited <font color="purple" size="5"><span id="busuanzi_value_
 
 <script>
 async function fetchLastCommitTime() {
-    const owner = 'chenjiahe2002';
-    const repo = 'chenjiahe2002.github.io';
+
+  // https://github.com/JiaheChen2002/JiaheChen2002.github.io
+    const owner = 'JiaheChen2002';
+    const repo = 'JiaheChen2002.github.io';
     const url = `https://api.github.com/repos/${owner}/${repo}/commits`;
     try {
         const response = await fetch(url);
