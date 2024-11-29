@@ -36,8 +36,15 @@ And I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Qi
 
 - Decoupled Competitive Framework for Semi-supervised medical segmentation. **Jiahe Chen**, Jiahe Ying, Shen Wang, Jianwei Zheng; ECAI 2024. (CCF-B)
 
-# 🎖 Honors and Awards
-- 
+# 💻 Projects
+## 1、[LLM Application Platform @ Wedoctor Inc.]() (Frontend Developer)
+
+**Introduction:** This is a LLMs application and development platform, designed to help downstream engineers better compare and use LLMs. It includes model square, knowledge square, comparison center, document center, etc.
+
+In this project, I completed the development of all front-end pages and interactions with [Qiyuan Chen](https://qychen2001.github.io/).
+
+
+<!-- # 🎖 Honors and Awards -->
 
 # 📖 Educations
 
