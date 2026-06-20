@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is **Jiahe Chen**, and I am currently a Ph.D. student at Zhejiang University.
+My name is **Jiahe Chen**, and I am currently a **first-year Ph.D. student** at Zhejiang University.
 
 My research interests include **Machine Learning**, **Computer Vision**, **Vision-Language Models**, and **AI Systems**. I am especially interested in semi-supervised learning, open-set recognition, long-tailed learning, grounded generation, and medical AI.
 
@@ -54,7 +54,7 @@ I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/)
 
 - [**Icon2: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation**](/publications/icon2/). Qiyuan Chen, Hongsen Huang, Qian Shao, **Jiahe Chen**, Jintai Chen, Hongxia Xu, Jian Wu. *EMNLP 2025* (<font color="#b76e00">CCF-B</font>)
 
-- [**BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning**](/publications/biographfusion/). Yitong Lin, Jiaying He, **Jiahe Chen**, Xinnan Zhu, Jianwei Zheng, Tao Bo. *Bioinformatics 2025.*
+- [**BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning**](/publications/biographfusion/). Yitong Lin, Jiaying He, **Jiahe Chen**, Xinnan Zhu, Jianwei Zheng, Tao Bo. *Bioinformatics 2025* (<font color="#b22222">CCF-A</font>)
 
 - [**A Bioinspired Mineralized Collagen Scaffold Promotes Enthesis Healing and Activates Gli1 Expression in Preclinical Models**](/publications/mineralized-collagen-scaffold/). *Science Translational Medicine 2025.*
 
@@ -66,21 +66,21 @@ I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/)
 
 # 💻 Projects
 
-## 1. Poco
+## 1. [Poco](/projects/poco/)
 
 **Introduction:** Poco is a cloud-native general AI agent system and a more usable alternative to OpenClaw, with a stronger interface, built-in instant messaging support, sandboxed runtime, and channel-based collaboration.
 
 - Github **1.3k+ Stars**
-- <font color="#b76e00">Gold Award</font>, Global Hackathon Zhejiang University station
+- <font color="#b76e00">Gold Award</font>&nbsp;Global Hackathon Zhejiang University station
 - Third place, AIHackathonTour finals
 
-## 2. YumGo!
+## 2. [YumGo!](/projects/yumgo/)
 
 **Introduction:** YumGo! is a food map embedded in Douyin, designed to connect short-form content with local-life discovery and help users turn inspiration into nearby dining decisions.
 
-- <font color="#8a8f98">Silver Award</font>, Douyin AI Transformer Hackathon
+- <font color="#8a8f98">Silver Award</font>&nbsp;Douyin AI Transformer Hackathon
 
-## 3. Agentify
+## 3. [Agentify](/projects/agentify/)
 
 **Introduction:** Agentify is a natural-language-driven LLM workflow generation framework built on Dify and LangGraph. It uses a dual-agent architecture to plan and serialize workflows, then renders them into deployable HTML interfaces.
 
@@ -94,8 +94,8 @@ I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/)
 - <font color="#b22222">National Scholarship</font>
 - Zhejiang Provincial Government Scholarship
 - Outstanding Graduate
-- <font color="#b76e00">Gold Award</font>, Global Hackathon Zhejiang University station
-- <font color="#8a8f98">Silver Award</font>, Douyin AI Transformer Hackathon (Yangtze River Delta)
+- <font color="#b76e00">Gold Award</font>&nbsp;Global Hackathon Zhejiang University station
+- <font color="#8a8f98">Silver Award</font>&nbsp;Douyin AI Transformer Hackathon (Yangtze River Delta)
 
 <span class='anchor' id='education'></span>
 
