@@ -24,7 +24,7 @@ I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/)
 
 # 🔥 News
 
-- **2026.06** YumGo! won the <font color="#b76e00">Silver Award</font> at the Douyin AI Transformer Hackathon (Yangtze River Delta competition region).
+- **2026.06** YumGo! won the <font color="#8a8f98">Silver Award</font> at the Douyin AI Transformer Hackathon (Yangtze River Delta competition region).
 - **2026.04** Poco reached **1.3k+ GitHub stars**, won the <font color="#b76e00">Gold Award</font> at the Global Hackathon Zhejiang University station, and placed **third** in the AIHackathonTour finals.
 - **2026** Collaborative works were accepted by **ACL 2026** and **ICLR 2026**, and **DREAM** was selected as **ICME 2026 Spotlight**.
 - **2025.09** I joined Zhejiang University as a direct Ph.D. student.
@@ -40,27 +40,27 @@ For a full and updated list, please see my [Google Scholar](https://scholar.goog
 
 ## First-author / Co-first-author
 
-- **Decoupled Competitive Framework for Semi-supervised Medical Image Segmentation**. **Jiahe Chen**, Jiahe Ying, Shen Wang, Jianwei Zheng. *ECAI 2024.*
+- [**Decoupled Competitive Framework for Semi-supervised Medical Image Segmentation**](/publications/decoupled-competitive-framework/). **Jiahe Chen**, Jiahe Ying, Shen Wang, Jianwei Zheng. *ECAI 2024.*
 
-- **Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning**. **Jiahe Chen**, Qian Shao, Qiyuan Chen, Jiaying He, Hongxia Xu, Jian Wu. *ECCV 2026, under review.*
+- [**Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning**](/publications/geometric-gradient-rectification/). **Jiahe Chen**, Qian Shao, Qiyuan Chen, Jiaying He, Hongxia Xu, Jian Wu. *ECCV 2026, under review.*
 
-- **Curing Semantic Drift: A Dynamic Approach to Grounding Generation in Large Vision-Language Models**. **Jiahe Chen**, Jiaying He, Qian Shao, Qiyuan Chen, Jiahe Ying, Hongxia Xu, Jintai Chen, Jianwei Zheng, Jian Wu. *EMNLP 2026, under review.*
+- [**Curing Semantic Drift: A Dynamic Approach to Grounding Generation in Large Vision-Language Models**](/publications/curing-semantic-drift/). **Jiahe Chen**, Jiaying He, Qian Shao, Qiyuan Chen, Jiahe Ying, Hongxia Xu, Jintai Chen, Jianwei Zheng, Jian Wu. *EMNLP 2026, under review.*
 
-- **DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning**. Qian Shao, **Jiahe Chen**, Qiyuan Chen, Qianqian Tang, Jintai Chen, Hongxia Xu, Jiangrui Kang, Jian Wu. *ICME 2026 Spotlight.*
+- [**DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning**](/publications/dream-ltssl/). Qian Shao, **Jiahe Chen**, Qiyuan Chen, Qianqian Tang, Jintai Chen, Hongxia Xu, Jiangrui Kang, Jian Wu. *ICME 2026 Spotlight.*
 
 ## Selected Collaborative Publications
 
-- **Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling**. Qiyuan Chen, Hongsen Huang, **Jiahe Chen**, Qian Shao, Jintai Chen, Hongxia Xu, Renjie Hua, Chuan Ren, Jian Wu. *ACL 2026.*
+- [**Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling**](/publications/learning-what-matters/). Qiyuan Chen, Hongsen Huang, **Jiahe Chen**, Qian Shao, Jintai Chen, Hongxia Xu, Renjie Hua, Chuan Ren, Jian Wu. *ACL 2026.*
 
-- **CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning**. Qian Shao, Qiyuan Chen, **Jiahe Chen**, Zepeng Li, Qianqian Tang, Hongxia Xu, Jian Wu. *ICLR 2026.*
+- [**CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning**](/publications/cola-logit-adjustment/). Qian Shao, Qiyuan Chen, **Jiahe Chen**, Zepeng Li, Qianqian Tang, Hongxia Xu, Jian Wu. *ICLR 2026.*
 
-- **Icon2: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation**. Qiyuan Chen, Hongsen Huang, Qian Shao, **Jiahe Chen**, Jintai Chen, Hongxia Xu, Jian Wu. *EMNLP 2025.*
+- [**Icon2: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation**](/publications/icon2/). Qiyuan Chen, Hongsen Huang, Qian Shao, **Jiahe Chen**, Jintai Chen, Hongxia Xu, Jian Wu. *EMNLP 2025.*
 
-- **BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning**. Yitong Lin, Jiaying He, **Jiahe Chen**, Xinnan Zhu, Jianwei Zheng, Tao Bo. *Bioinformatics 2025.*
+- [**BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning**](/publications/biographfusion/). Yitong Lin, Jiaying He, **Jiahe Chen**, Xinnan Zhu, Jianwei Zheng, Tao Bo. *Bioinformatics 2025.*
 
-- **AI-powered TargetMap: Enabling System-level Target Discovery through Full-path Reasoning on a Unified Knowledge Graph**. Xizhi Jin, Sijie Wang, **Jiahe Chen**, Shuhao Shen, Fangjie Yan, Jian Wu, Qiaojun He, Hongxia Xu, Ruijia Wu, Ji Cao, Bo Yang. *iScience 2026.*
+- [**AI-powered TargetMap: Enabling System-level Target Discovery through Full-path Reasoning on a Unified Knowledge Graph**](/publications/ai-powered-targetmap/). Xizhi Jin, Sijie Wang, **Jiahe Chen**, Shuhao Shen, Fangjie Yan, Jian Wu, Qiaojun He, Hongxia Xu, Ruijia Wu, Ji Cao, Bo Yang. *iScience 2026.*
 
-- **A Bioinspired Mineralized Collagen Scaffold Promotes Enthesis Healing and Activates Gli1 Expression in Preclinical Models**. *Science Translational Medicine 2025.*
+- [**A Bioinspired Mineralized Collagen Scaffold Promotes Enthesis Healing and Activates Gli1 Expression in Preclinical Models**](/publications/mineralized-collagen-scaffold/). *Science Translational Medicine 2025.*
 
 <span class='anchor' id='projects'></span>
 
@@ -78,7 +78,7 @@ For a full and updated list, please see my [Google Scholar](https://scholar.goog
 
 **Introduction:** YumGo! is a food map embedded in Douyin, designed to connect short-form content with local-life discovery and help users turn inspiration into nearby dining decisions.
 
-- <font color="#b76e00">Silver Award</font>, Douyin AI Transformer Hackathon
+- <font color="#8a8f98">Silver Award</font>, Douyin AI Transformer Hackathon
 
 ## 3. Agentify
 
@@ -103,7 +103,7 @@ For a full and updated list, please see my [Google Scholar](https://scholar.goog
 - First Prize, National College Student Mathematics Competition (Zhejiang Division)
 - First Prize, Zhejiang Higher Mathematics Competition
 - <font color="#b76e00">Gold Award</font>, Global Hackathon Zhejiang University station
-- <font color="#b76e00">Silver Award</font>, Douyin AI Transformer Hackathon (Yangtze River Delta)
+- <font color="#8a8f98">Silver Award</font>, Douyin AI Transformer Hackathon (Yangtze River Delta)
 
 <span class='anchor' id='education'></span>
 
