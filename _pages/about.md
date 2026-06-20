@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is **Jiahe Chen**, and I am currently a Ph.D. student at Zhejiang University. Before that, I received my B.Eng. in Software Engineering from Zhejiang University of Technology, where I was advised by Prof. [Jianwei Zheng](https://homepage.zjut.edu.cn/zjw/).
+My name is **Jiahe Chen**, and I am currently a Ph.D. student at Zhejiang University.
 
 My research interests include **Machine Learning**, **Computer Vision**, **Vision-Language Models**, and **AI Systems**. I am especially interested in semi-supervised learning, open-set recognition, long-tailed learning, grounded generation, and medical AI.
 
@@ -38,7 +38,7 @@ I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/)
 
 ## 2026
 
-- [**Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning**](/publications/geometric-gradient-rectification/). **Jiahe Chen**, Qian Shao, Qiyuan Chen, Jiaying He, Hongxia Xu, Jian Wu. *ECCV 2026* (<font color="#b22222">CCF-A</font>)
+- [**Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning**](/publications/geometric-gradient-rectification/). **Jiahe Chen**, Qian Shao, Qiyuan Chen, Jiaying He, Hongxia Xu, Jian Wu. *ECCV 2026* (<font color="#b76e00">CCF-B</font>)
 
 - [**DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning**](/publications/dream-ltssl/). Qian Shao, **Jiahe Chen**, Qiyuan Chen, Qianqian Tang, Jintai Chen, Hongxia Xu, Jiangrui Kang, Jian Wu. *ICME 2026 Spotlight* (<font color="#b76e00">CCF-B</font>)
 
@@ -87,12 +87,6 @@ I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/)
 - Github **100+ Stars**
 - Focused on zero-code agent and workflow composition
 
-## 4. WeDoctor Medical LLM
-
-**Introduction:** I contributed to a domain-specific medical LLM project and worked on post-training methods including SFR and reinforcement learning for stronger medical reasoning performance.
-
-- The project previously ranked **first on MedBench**
-
 <span class='anchor' id='honors'></span>
 
 # 🎖 Honors and Awards
@@ -100,8 +94,6 @@ I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/)
 - <font color="#b22222">National Scholarship</font>
 - Zhejiang Provincial Government Scholarship
 - Outstanding Graduate
-- First Prize, National College Student Mathematics Competition (Zhejiang Division)
-- First Prize, Zhejiang Higher Mathematics Competition
 - <font color="#b76e00">Gold Award</font>, Global Hackathon Zhejiang University station
 - <font color="#8a8f98">Silver Award</font>, Douyin AI Transformer Hackathon (Yangtze River Delta)
 
