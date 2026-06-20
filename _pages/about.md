@@ -24,6 +24,7 @@ I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/)
 
 # 🔥 News
 
+- **2026.06** One paper was accepted by **ECCV 2026**.
 - **2026.06** YumGo! won the <font color="#8a8f98">Silver Award</font> at the Douyin AI Transformer Hackathon (Yangtze River Delta competition region).
 - **2026.04** Poco reached **1.3k+ GitHub stars**, won the <font color="#b76e00">Gold Award</font> at the Global Hackathon Zhejiang University station, and placed **third** in the AIHackathonTour finals.
 - **2026** Collaborative works were accepted by **ACL 2026** and **ICLR 2026**, and **DREAM** was selected as **ICME 2026 Spotlight**.
@@ -71,14 +72,14 @@ I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/)
 **Introduction:** Poco is a cloud-native general AI agent system and a more usable alternative to OpenClaw, with a stronger interface, built-in instant messaging support, sandboxed runtime, and channel-based collaboration.
 
 - Github **1.3k+ Stars**
-- <font color="#b76e00">Gold Award</font>&nbsp;Global Hackathon Zhejiang University station
+- <span style="white-space: nowrap;"><font color="#b76e00">Gold Award</font> Global Hackathon Zhejiang University station</span>
 - Third place, AIHackathonTour finals
 
 ## 2. [YumGo!](/projects/yumgo/)
 
 **Introduction:** YumGo! is a food map embedded in Douyin, designed to connect short-form content with local-life discovery and help users turn inspiration into nearby dining decisions.
 
-- <font color="#8a8f98">Silver Award</font>&nbsp;Douyin AI Transformer Hackathon
+- <span style="white-space: nowrap;"><font color="#8a8f98">Silver Award</font> Douyin AI Transformer Hackathon</span>
 
 ## 3. [Agentify](/projects/agentify/)
 
@@ -94,8 +95,8 @@ I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/)
 - <font color="#b22222">National Scholarship</font>
 - Zhejiang Provincial Government Scholarship
 - Outstanding Graduate
-- <font color="#b76e00">Gold Award</font>&nbsp;Global Hackathon Zhejiang University station
-- <font color="#8a8f98">Silver Award</font>&nbsp;Douyin AI Transformer Hackathon (Yangtze River Delta)
+- <span style="white-space: nowrap;"><font color="#b76e00">Gold Award</font> Global Hackathon Zhejiang University station</span>
+- <span style="white-space: nowrap;"><font color="#8a8f98">Silver Award</font> Douyin AI Transformer Hackathon (Yangtze River Delta)</span>
 
 <span class='anchor' id='education'></span>
 
