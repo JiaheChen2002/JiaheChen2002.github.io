@@ -12,7 +12,7 @@ redirect_from:
 
 My name is **Jiahe Chen**, and I am currently a **first-year Ph.D. student** at Zhejiang University.
 
-My research interests include **Machine Learning**, **Computer Vision**, **Vision-Language Models**, and **AI Systems**. I am especially interested in semi-supervised learning, open-set recognition, long-tailed learning, grounded generation, and medical AI.
+My research interests include **Machine Learning**, **Computer Vision**, and **Vision-Language Models**. I am especially interested in **semi-supervised learning**, **reinforcement learning**, and **Agent**.
 
 I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/), [Qian Shao](https://abeier87.github.io/), and many outstanding collaborators from academia and industry.
 
@@ -94,9 +94,7 @@ I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/)
 
 - <font color="#b22222">National Scholarship</font>
 - Zhejiang Provincial Government Scholarship
-- Outstanding Graduate
-- <span style="white-space: nowrap;"><font color="#b76e00">Gold Award</font> Global Hackathon Zhejiang University station</span>
-- <span style="white-space: nowrap;"><font color="#8a8f98">Silver Award</font> Douyin AI Transformer Hackathon (Yangtze River Delta)</span>
+- Zhejiang Provincial Outstanding Graduate
 
 <span class='anchor' id='education'></span>
 
