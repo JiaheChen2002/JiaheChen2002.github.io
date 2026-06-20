@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiahe Chen -- Homepage"
-description              : ""
-repository               : ""
+title                    : "Jiahe Chen | Homepage"
+description              : "Trustworthy ML, multimodal intelligence, and agent systems"
+repository               : "JiaheChen2002/JiaheChen2002.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiahe Chen"
   avatar           : "images/cjh.png"
-  bio              : ""
-  location         : "HangZhou, Zhejiang, China"
-  employer         :
+  bio              : "Ph.D. student in Computer Science and Technology at Zhejiang University."
+  location         : "Hangzhou, China"
+  employer         : "College of Computer Science and Technology, Zhejiang University"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=5cw7ZksAAAAJ&hl=zh-CN"
   email            : "cjhfighting@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "JiaheChen2002"
   google_plus      :
   keybase          :
   instagram        :
