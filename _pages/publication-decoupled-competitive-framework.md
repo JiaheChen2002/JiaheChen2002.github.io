@@ -8,6 +8,6 @@ author_profile: true
 # Decoupled Competitive Framework for Semi-supervised Medical Image Segmentation
 
 **Authors:** Jiahe Chen, Jiahe Ying, Shen Wang, Jianwei Zheng  
-**Venue:** ECAI 2024
+**Venue:** ECAI 2024 (CCF-B)
 
 > TODO: Add paper abstract, links, code, and related materials here.

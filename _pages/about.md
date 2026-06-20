@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is **Jiahe Chen**, and I am currently a Ph.D. student at the College of Computer Science and Technology, Zhejiang University. Before that, I received my B.Eng. in Software Engineering from Zhejiang University of Technology, where I was advised by Prof. [Jianwei Zheng](https://homepage.zjut.edu.cn/zjw/).
+My name is **Jiahe Chen**, and I am currently a Ph.D. student at Zhejiang University. Before that, I received my B.Eng. in Software Engineering from Zhejiang University of Technology, where I was advised by Prof. [Jianwei Zheng](https://homepage.zjut.edu.cn/zjw/).
 
 My research interests include **Machine Learning**, **Computer Vision**, **Vision-Language Models**, and **AI Systems**. I am especially interested in semi-supervised learning, open-set recognition, long-tailed learning, grounded generation, and medical AI.
 
@@ -36,31 +36,31 @@ I am fortunate to work closely with [Qiyuan Chen](https://qychen2001.github.io/)
 
 # 📝 Publications
 
-For a full and updated list, please see my [Google Scholar](https://scholar.google.com/citations?user=5cw7ZksAAAAJ&hl=zh-CN).
+## 2026
 
-## First-author / Co-first-author
+- [**Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning**](/publications/geometric-gradient-rectification/). **Jiahe Chen**, Qian Shao, Qiyuan Chen, Jiaying He, Hongxia Xu, Jian Wu. *ECCV 2026* (<font color="#b22222">CCF-A</font>)
 
-- [**Decoupled Competitive Framework for Semi-supervised Medical Image Segmentation**](/publications/decoupled-competitive-framework/). **Jiahe Chen**, Jiahe Ying, Shen Wang, Jianwei Zheng. *ECAI 2024.*
+- [**DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning**](/publications/dream-ltssl/). Qian Shao, **Jiahe Chen**, Qiyuan Chen, Qianqian Tang, Jintai Chen, Hongxia Xu, Jiangrui Kang, Jian Wu. *ICME 2026 Spotlight* (<font color="#b76e00">CCF-B</font>)
 
-- [**Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning**](/publications/geometric-gradient-rectification/). **Jiahe Chen**, Qian Shao, Qiyuan Chen, Jiaying He, Hongxia Xu, Jian Wu. *ECCV 2026, under review.*
+- [**Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling**](/publications/learning-what-matters/). Qiyuan Chen, Hongsen Huang, **Jiahe Chen**, Qian Shao, Jintai Chen, Hongxia Xu, Renjie Hua, Chuan Ren, Jian Wu. *ACL 2026* (<font color="#b22222">CCF-A</font>)
 
-- [**Curing Semantic Drift: A Dynamic Approach to Grounding Generation in Large Vision-Language Models**](/publications/curing-semantic-drift/). **Jiahe Chen**, Jiaying He, Qian Shao, Qiyuan Chen, Jiahe Ying, Hongxia Xu, Jintai Chen, Jianwei Zheng, Jian Wu. *EMNLP 2026, under review.*
-
-- [**DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning**](/publications/dream-ltssl/). Qian Shao, **Jiahe Chen**, Qiyuan Chen, Qianqian Tang, Jintai Chen, Hongxia Xu, Jiangrui Kang, Jian Wu. *ICME 2026 Spotlight.*
-
-## Selected Collaborative Publications
-
-- [**Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling**](/publications/learning-what-matters/). Qiyuan Chen, Hongsen Huang, **Jiahe Chen**, Qian Shao, Jintai Chen, Hongxia Xu, Renjie Hua, Chuan Ren, Jian Wu. *ACL 2026.*
-
-- [**CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning**](/publications/cola-logit-adjustment/). Qian Shao, Qiyuan Chen, **Jiahe Chen**, Zepeng Li, Qianqian Tang, Hongxia Xu, Jian Wu. *ICLR 2026.*
-
-- [**Icon2: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation**](/publications/icon2/). Qiyuan Chen, Hongsen Huang, Qian Shao, **Jiahe Chen**, Jintai Chen, Hongxia Xu, Jian Wu. *EMNLP 2025.*
-
-- [**BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning**](/publications/biographfusion/). Yitong Lin, Jiaying He, **Jiahe Chen**, Xinnan Zhu, Jianwei Zheng, Tao Bo. *Bioinformatics 2025.*
+- [**CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning**](/publications/cola-logit-adjustment/). Qian Shao, Qiyuan Chen, **Jiahe Chen**, Zepeng Li, Qianqian Tang, Hongxia Xu, Jian Wu. *ICLR 2026* (<font color="#b22222">CCF-A</font>)
 
 - [**AI-powered TargetMap: Enabling System-level Target Discovery through Full-path Reasoning on a Unified Knowledge Graph**](/publications/ai-powered-targetmap/). Xizhi Jin, Sijie Wang, **Jiahe Chen**, Shuhao Shen, Fangjie Yan, Jian Wu, Qiaojun He, Hongxia Xu, Ruijia Wu, Ji Cao, Bo Yang. *iScience 2026.*
 
+## 2025
+
+- [**Curing Semantic Drift: A Dynamic Approach to Grounding Generation in Large Vision-Language Models**](/publications/curing-semantic-drift/). **Jiahe Chen**, Jiaying He, Qian Shao, Qiyuan Chen, Jiahe Ying, Hongxia Xu, Jintai Chen, Jianwei Zheng, Jian Wu. *arXiv 2025.*
+
+- [**Icon2: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation**](/publications/icon2/). Qiyuan Chen, Hongsen Huang, Qian Shao, **Jiahe Chen**, Jintai Chen, Hongxia Xu, Jian Wu. *EMNLP 2025* (<font color="#b76e00">CCF-B</font>)
+
+- [**BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning**](/publications/biographfusion/). Yitong Lin, Jiaying He, **Jiahe Chen**, Xinnan Zhu, Jianwei Zheng, Tao Bo. *Bioinformatics 2025.*
+
 - [**A Bioinspired Mineralized Collagen Scaffold Promotes Enthesis Healing and Activates Gli1 Expression in Preclinical Models**](/publications/mineralized-collagen-scaffold/). *Science Translational Medicine 2025.*
+
+## 2024
+
+- [**Decoupled Competitive Framework for Semi-supervised Medical Image Segmentation**](/publications/decoupled-competitive-framework/). **Jiahe Chen**, Jiahe Ying, Shen Wang, Jianwei Zheng. *ECAI 2024* (<font color="#b76e00">CCF-B</font>)
 
 <span class='anchor' id='projects'></span>
 
