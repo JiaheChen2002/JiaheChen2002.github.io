@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Overview"
+  - title: "About Me"
     url: "/#about-me"
-
-  - title: "Focus"
-    url: "/#research"
 
   - title: "News"
     url: "/#news"
@@ -15,10 +12,10 @@ main:
   - title: "Projects"
     url: "/#projects"
 
-  - title: "Honors"
+  - title: "Honors and Awards"
     url: "/#honors"
 
-  - title: "Education"
+  - title: "Educations"
     url: "/#education"
 
 
